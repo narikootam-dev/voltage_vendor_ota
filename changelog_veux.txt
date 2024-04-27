@@ -1,0 +1,17 @@
+VoltageOS 3.3
+Build Date: 27/04/2024
+Device side:
+- Initial A14 QPR 2 Release
+- Added Motorola Dolby Atmos
+- Improved Brightness (Like It Was On Old Roms)
+- Added Switch To Change Min. And Max. Refresh Rate
+- Dropped Smooth Display Feature
+- Device Is Certified Out Of The Box
+- Added Smart Pixels
+- Added Overlay For Battery Health 
+
+Vendor Side:
+- Updated Blobs From Latest Global HyperOS
+
+Kernel Side:
+- Comes With Latest Positron Kernel Without KernelSU
