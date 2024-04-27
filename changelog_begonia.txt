@@ -1,3 +1,13 @@
+VoltageOS 3.3
+Build Date: 27/04/2024
+- Upstreamed Kernel to v4.14.342-openela 
+- Fixed random BT heaphones disconnections
+- Switched to OSS wpa_supplicant
+- Remove deprecated trust HAL
+- Fixed more untrusted app denials
+- Silence OpenGLRenderer logspam
+- Enabled Mtk_pq 
+
 VoltageOS 3.2
 Build Date: 11/02/2024
 - Added Notification & Battery LED capabilities Support
