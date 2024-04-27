@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "The Blood Whisperer",
+        "oem": "Xiaomi",
+        "device": "miatoll",
+        "filename": "voltage-3.3-miatoll-20240427-0323-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/miatoll/voltage-3.3-miatoll-20240427-0323-OFFICIAL.zip/download",
+        "timestamp": 1714188008,
+        "md5": "e68cb6d8b6e6d3384ab6a6f0f59b1dc8",
+        "size": 1524743767,
+        "version": "3.3"
+    }
+  ]
+}
