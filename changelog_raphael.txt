@@ -1,3 +1,29 @@
+VoltageOS 3.3 Changelog
+Build Date : 27/04/2024
+
+Device Side :
+ - Define PRODUCT_SHIPPING_API_LEVEL directly
+ - Update Carrier Config to LA.QSSI.14.0.r1-12000-qssi.0
+ - Suppress CamX CHIUSECASE logspam
+ - Allow user apps to read proc/zoneinfo files
+ - Give QCOM TEE directory access to tmpfs
+ - Build broken incorrect partition images
+ - Xiaomi Parts Remove Clear Speaker
+ - Xiaomi Parts Enable use_resource_processor for all sysui deps
+ - Xiaomi Parts Migrate to CompoundButton.OnCheckedChangeListener
+ - Xiaomi Parts Convert to SwitchPreferenceCompat
+
+Vendor Side :
+ - All blobs extracted from MIUI V12.5.6.0
+ - Add missing blobs from MIUI V12.5.2.0
+ - libsdedrm.so from Nubia NX627J RKQ1.200826.002
+ - Qssi Ims blobs from Renoir 22.5.11 SKQ1.220303.001
+ - Switch to full IWLAN mode
+
+Kernel Side :
+ - Merge CAF/CLO tag LA.UM.9.1.r1-16000-SMxxx0.QSSI14.0
+ - Backport bpf to boot 4.14 kerenl on A14 QPR2
+
 VoltageOS 3.2
 Build Date : 11/02/2024
 Device Side :
