@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Karthik",
+        "oem": "Xiaomi",
+        "device": "mi439",
+        "filename": "voltage-3.4-mi439-20240512-0839-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/mi439/voltage-3.4-mi439-20240512-0839-OFFICIAL.zip/download",
+        "timestamp": 1715503152,
+        "md5": "e98190030bcd551ff9dc4dd87be6f159",
+        "size": 1365479177,
+        "version": "3.4"
+    }
+  ]
+}
