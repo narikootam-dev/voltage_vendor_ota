@@ -1,3 +1,19 @@
+VoltageOS 3.4
+Build Date: 12/05/2024
+Device Side:
+- May Security Patch
+- Dropped FM Radio
+- Fixed Flickering Of AOD
+- Fixed Device Getting Detected As Tablet In Some Apps
+- Added Charging Control
+- Included Latest Global Firmware
+- Added 120 FPS For Screen Recorder
+- Miscellaneous Improvements In Audio
+
+Kernel Side:
+- Comes With Latest Positron Kernel Without KernelSU
+- Downgraded to DTBO From veux_global-user 12 SKQ1.211006.001 V13.0.7.0.SKCMIXM release-keys
+
 VoltageOS 3.3
 Build Date: 27/04/2024
 Device side:
