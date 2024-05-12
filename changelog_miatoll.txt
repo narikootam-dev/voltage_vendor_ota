@@ -1,3 +1,15 @@
+VoltageOS 3.4
+Build Date: 12-05-2024
+
+- Switched to YAMK 4.14.344 openELA
+- Adjusted status bar padding 
+- Adjusted max num of notification shown on status bar and lockscreen 
+- Update carrirer config overlays from sweetin
+- Fixed no signal show in status bar after reboot for Curtana
+- Enabled VoLTE/VoWIFI For All Indian Carriers
+- Improved rounded corner content padding
+
+
 VoltageOS 3.3
 Build Date: 27-04-2024
 
