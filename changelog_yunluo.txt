@@ -1,0 +1,12 @@
+VoltageOS 3.4
+Date : 12-05-2024
+
+- Initial Release for Redmi Pad (yunluo)
+- Added Viper4AndroidFX to counteract atrocious speaker audio
+- Kernel side :
+		- Updated to May 2024 Android Security Bulletin
+		- Built on AOSP Crosshatch Android 12 release clang
+		- Dropped iommu tracing on release builds
+		- Suppressed binder logging level to 0
+		- Dropped binder debugging
+		- Excluded non MTK dts

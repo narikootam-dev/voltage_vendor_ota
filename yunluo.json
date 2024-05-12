@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Kanishk",
+        "oem": "Xiaomi",
+        "device": "Redmi Pad",
+        "filename": "voltage-3.4-yunluo-20240512-0844-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/yunluo/voltage-3.4-yunluo-20240512-0844-OFFICIAL.zip/download",
+        "timestamp": 1715503314,
+        "md5": "34797e4bd60ba3f881aab0d0ee0795a2",
+        "size": 1049780787,
+        "version": "3.4"
+    }
+  ]
+}
