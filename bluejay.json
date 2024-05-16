@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "StudioKeys",
+        "oem": "Google",
+        "device": "Pixel 6a",
+        "filename": "voltage-3.4-bluejay-20240516-1126-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/bluejay/voltage-3.4-bluejay-20240516-1126-OFFICIAL.zip/download",
+        "timestamp": 1715858765,
+        "md5": "610829217257d7d0e0dabaf5d240c83b",
+        "size": 1504063713,
+        "version": "3.4"
+    }
+  ]
+}

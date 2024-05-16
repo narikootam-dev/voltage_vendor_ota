@@ -1,0 +1,5 @@
+VoltageOS 3.4
+Build Date: 16/05/2024
+- Initial Release
+- Electra kernel based on LOS with some additions
+- Ships with PixelParts
