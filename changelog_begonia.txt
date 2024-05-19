@@ -1,3 +1,9 @@
+VoltageOS 3.4
+Build Date: 19/05/2024
+- Added Moto Dolby Support
+- Removed FMRadio (due to reboot issues)
+- Silence Few Powerhal denials
+
 VoltageOS 3.3
 Build Date: 27/04/2024
 - Upstreamed Kernel to v4.14.342-openela 
