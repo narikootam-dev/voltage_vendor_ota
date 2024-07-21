@@ -1,3 +1,23 @@
+VoltageOS 3.5
+Build Date: 21-07-2024
+
+- Added Miui Camera
+- OSS Audio HALS
+- Improved MIC sensitivity 
+- Added missing ACDB IDs
+- Set Memory tweaks for 4Gb ram devices
+- Partially Updated some Adreno blobs to v757
+- Switched to AVC 3.1 for screen recording
+- Fixed lag in Meta Apps during audio note recording
+- Disabled Data Roaming option by default
+- Move to new RFS install_symlink targets
+- Convert WiFi firmware symlinks to install_symlink targets
+- Declare IMS libs as symlinks during extraction 
+- Declare EGL libs as symlinks during extraction
+- Removed software OMX blobs
+- Switch to AOSP default Codec2/OMX ranks
+- Disabled GL comp backpressure
+
 VoltageOS 3.4
 Build Date: 12-05-2024
 

@@ -4,12 +4,12 @@
         "maintainer": "The Blood Whisperer",
         "oem": "Xiaomi",
         "device": "miatoll",
-        "filename": "voltage-3.4-miatoll-20240512-0254-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/miatoll/voltage-3.4-miatoll-20240512-0254-OFFICIAL.zip/download",
-        "timestamp": 1715482235,
-        "md5": "055e1ab279aa7a62bc674d227d03471c",
-        "size": 1553828878,
-        "version": "3.4"
+        "filename": "voltage-3.5-miatoll-20240721-1844-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/miatoll/voltage-3.5-miatoll-20240721-1844-OFFICIAL.zip/download",
+        "timestamp": 1721587487,
+        "md5": "7c22cf05160b15bacdc8e5d5cc7c0d6d",
+        "size": 1668442104,
+        "version": "3.5"
     }
   ]
 }
