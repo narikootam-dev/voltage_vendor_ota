@@ -1,8 +1,47 @@
-VoltageOS 3.4 Changelog
+VoltageOS 3.5
+Build Date : 21/07/2024
+
+Device Side :
+ - Build missing libraries for A14 QPR3
+ - Fix audio on A14 QPR3 with alsa audio
+ - Update FCM for A14 QPR3
+ - Update notification icons overlay for Android 14
+ - Disable Smart Pixels on UDFPS
+ - Remove Dirac & Misoundfx from Xiaomi Parts
+ - Disable continuous transaction tracing on all build types
+ - Don't latch unsignal buffers
+ - Disable SF client composition cache
+ - Disable SF composition prediction model
+ - Drop explicit 'sdk_version' declaration in rro_overlays
+ - Drop MMS user agent overlays
+ - Remove AOSP rild property
+ - Disable redir_party_num
+ - Drop COMMON_LUNCH_CHOICES
+ - Convert packages allowed to use aux cameras to prop
+ - Remove wait_for_keymaster and all references
+ - Move to new RFS install_symlink targets
+ - Convert WiFi firmware symlinks to install_symlink targets
+ - Declare IMS libs as symlinks during extraction
+ - Declare EGL libs as symlinks during extraction
+ - Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+ - Move some wakeup genfscon to qcom sepolicy
+
+Vendor Side :
+ - Add IMS libs symlinks
+ - Add EGL libs symlinks
+
+Kernel Side :
+ - Merge CAF/CLO tag LA.UM.9.1.r1-16300-SMxxx0.QSSI14.0
+
+-----------------------------------------------------------
+
+VoltageOS 3.4
 Build Date : 12/05/2024
  - No changes
 
-VoltageOS 3.3 Changelog
+-----------------------------------------------------------
+
+VoltageOS 3.3
 Build Date : 27/04/2024
 
 Device Side :
@@ -27,6 +66,8 @@ Vendor Side :
 Kernel Side :
  - Merge CAF/CLO tag LA.UM.9.1.r1-16000-SMxxx0.QSSI14.0
  - Backport bpf to boot 4.14 kerenl on A14 QPR2
+
+-----------------------------------------------------------
 
 VoltageOS 3.2
 Build Date : 11/02/2024
