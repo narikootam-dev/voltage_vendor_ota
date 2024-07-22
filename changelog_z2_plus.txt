@@ -1,3 +1,10 @@
+VOS 3.5
+upstreamed kernel
+switch to QCRIL
+switch to QTI vibrator
+added dolby audio
+fixes for A14 QPR2-3
+
 VOS 2.8
 upstreamed kernel
 added stune boost
