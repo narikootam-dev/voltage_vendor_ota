@@ -1,3 +1,23 @@
+VoltageOS 3.5
+Date : 24-07-2024
+
+- From 3.4-BETA :
+		 - Fixed DRM Playback
+		 - Fixed inconsistent deepsleep
+		 - Blobs and Firmware updated to HyperOS 1.0.3.0.ULYMIXM
+		 - Reworked PowerHint boosting
+		 - Updated Motorola Dolby for QPR3 Release
+		 - Fixed Double Tap to Wake
+		 - Included Task Profiles from HyperOS 1.0.3.0.ULYMIXM
+		 - Fixed Device Integrity (only on Gapps)
+- Kernel side :
+		 - Merged July 2024 Android Security Bulletin
+		 - Merged `android12-5.10-lts` (Upstream to 5.10.222)
+		 - Merged F2FS patches
+		 - Disabled Watermark boosting (mm)
+		 - Reduced PELT half-life to 16ms, from 32ms
+		 - Enabled DCE (Dead Code Elimination)
+
 VoltageOS 3.4
 Date : 12-05-2024
 
