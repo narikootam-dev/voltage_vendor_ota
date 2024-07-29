@@ -1,3 +1,10 @@
+VoltageOS 3.5
+Build Date : 29-07-2024
+
+ - Initial Android 14 AP2A public release.
+ - FBEv2 Encrypted 
+ - Switched to common Power-LibPerfMGR
+ 
 VoltageOS 2.7
 Build Date : 14/08/2023
 

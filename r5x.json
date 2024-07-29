@@ -1,15 +1,17 @@
+  GNU nano 6.2                                                                                         r5x.json
 {
   "response": [
     {
-        "maintainer": "MAdMiZ",
+        "maintainer": "AdityaDotExe",
         "oem": "Realme",
         "device": "Realme 5 Series (r5x)",
-        "filename": "voltage-2.7-r5x-20230813-0705-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/r5x/voltage-2.7-r5x-20230813-0705-OFFICIAL.zip/download",
-        "timestamp": 20230813-0705,
-        "md5": "4231ef079b33abca1522a600933de1df",
-        "size": 1337494933,
-        "version": "2.7"
+        "filename": "voltage-3.5-r5x-20240729-1329-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/r5x/voltage-3.5-r5x-20240729-1329-OFFICIAL.zip/download",
+        "timestamp": 1722259626,
+        "md5": "39b593e9ba98f0a6cdcaf27c80abb0f0",
+        "size": 1500167384,
+        "version": "3.5"
     }
   ]
 }
+
