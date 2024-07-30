@@ -1,16 +1,15 @@
 {
-    "response": [
-      {
-          "maintainer": "adeveloper79",
-          "oem": "Xiaomi",
-          "device": "star",
-          "filename": "voltage-3.4-star-20240514-0701-OFFICIAL.zip",
-          "download": "https://sourceforge.net/projects/voltage-os/files/star/voltage-3.4-star-20240514-0701-OFFICIAL.zip/download",
-          "timestamp": 1715618456,
-          "md5": "16db6d9420e21a3aec9e0fdadc503333",
-          "size": 1567644349,
-          "version": "3.4"
-      }
-    ]
-  }
-  
+  "response": [
+    {
+        "maintainer": "adeveloper79",
+        "oem": "Xiaomi",
+        "device": "star",
+        "filename": "voltage-3.5-star-20240730-0526-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/star/voltage-3.5-star-20240730-0526-OFFICIAL.zip/download",
+        "timestamp": 1722317060,
+        "md5": "87affb32b48027f8afb4f988a064149d",
+        "size": 1755122469,
+        "version": "3.5"
+    }
+  ]
+}
