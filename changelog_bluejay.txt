@@ -1,3 +1,10 @@
+VoltageOS 3.5
+Build Date: 29/07/2024
+- Initial QPR3 build
+- Bundles PixelParts
+- Switch to prebuilt kernel instead of inline
+- Merged July Patches on Device
+
 VoltageOS 3.4
 Build Date: 16/05/2024
 - Initial Release

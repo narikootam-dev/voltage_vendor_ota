@@ -4,12 +4,12 @@
         "maintainer": "StudioKeys",
         "oem": "Google",
         "device": "Pixel 6a",
-        "filename": "voltage-3.4-bluejay-20240516-1126-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/bluejay/voltage-3.4-bluejay-20240516-1126-OFFICIAL.zip/download",
-        "timestamp": 1715858765,
-        "md5": "610829217257d7d0e0dabaf5d240c83b",
-        "size": 1504063713,
-        "version": "3.4"
+        "filename": "voltage-3.5-bluejay-20240729-1756-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/bluejay/voltage-3.5-bluejay-20240729-1756-OFFICIAL.zip/download",
+        "timestamp": 1722275599,
+        "md5": "740a08f74d05ef09201179bc0708beb6",
+        "size": 1528000521,
+        "version": "3.5"
     }
   ]
 }
