@@ -1,3 +1,25 @@
+VoltageOS 3.5
+Build Date: 31/07/2024
+- sepolicy: Move common wakeup nodes to qcom sepolicy
+- Switch to common compatibility_matrix.xml
+- Drop prebuilt display stack
+- Kang libsdedrm.so from Nubia Z20
+- Redo libsdmcore shim
+- Drop soundtrigger and hotword enrollment blobs
+- Build missing libraries for 14 QPR3
+- Build missing VNDK libraries
+- Partially revert "Move to QTI health AIDL service"
+- Use common libqti-perfd-client and power-libperfmgr
+- Use the common excluded-input-devices.xml
+- Drop power AIDL extension
+- sepolicy: Label double_tap sysfs node
+- Set permissions for double tap to wake node
+- Set double_tap mode via powerhint
+- Switch to common compatibility_matrix.xml
+- sepolicy: Move common wakeup nodes to qcom sepolicy
+- merged LA.UM.9.1.1.r1-04800-RENNELL.QSSI12.0 Caf tag in kernel
+- fixed 60 hz stuck after restart
+
 VoltageOS 3.4
 Build Date: 15/05/2024
 - libqti-perfd-client: Clean up
