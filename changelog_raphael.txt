@@ -1,3 +1,26 @@
+VoltageOS 3.6
+Build Date : 11/08/2024
+
+Device Side :
+ - Update Carrier Config overlay from Munch V816.0.2.0.ULMMIXM
+ - Explicitly disable "Enable GL comp backpressure" prop
+ - Disable backpressure propagation in SF prop
+ - Enable ro.hwui.render_ahead and set it to 10 Frames via prop
+ - Move IFAA props to system_ext
+ - Address Telephony sepolicy denials
+ - Update wakeup nodes sepolicy labels
+ - Allow odrefresh sepolicy to terminate itself
+ - Allow linkerconfig sepolicy to kill itself
+ - Allow toolbox sepolicy to terminate itself
+
+Kernel Side :
+ - Add Pstore changes from xiaomi to capture ramoops after panic
+ - Reduce wakeups
+ - Reduce wakelocks
+ - Re Enable LMK
+
+-----------------------------------------------------------
+
 VoltageOS 3.5
 Build Date : 21/07/2024
 
