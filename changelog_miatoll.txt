@@ -1,3 +1,13 @@
+VoltageOS 3.6
+Build Date: 11-08-2024
+
+- Added OnePlus Dolby 
+- Added Device as Webcam support 
+- Updated System blobs from LA.QSSI.14.0.r1-16000-qssi.0
+- Imported audio policy volume from stock
+- Fixed device watermark of MIUI camera
+- Adjusted swappiness according to RAM size
+
 VoltageOS 3.5
 Build Date: 21-07-2024
 
