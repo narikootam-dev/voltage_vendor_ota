@@ -1,3 +1,15 @@
+VoltageOS 3.6
+ - No device side changes.
+
+VoltageOS 3.5
+ - Skipped
+
+VoltageOS 3.4
+ - Skipped
+ 
+VoltageOS 3.3
+ - Skipped
+ 
 VoltageOS 3.2
 - Android 14
 
