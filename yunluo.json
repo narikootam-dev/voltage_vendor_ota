@@ -4,12 +4,12 @@
         "maintainer": "Kanishk",
         "oem": "Xiaomi",
         "device": "Redmi Pad",
-        "filename": "voltage-3.5-yunluo-20240724-0501-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/yunluo/voltage-3.5-yunluo-20240724-0501-OFFICIAL.zip/download",
-        "timestamp": 1721797156,
-        "md5": "3e349d5955c712e8c3e68b7687d9b7ce",
-        "size": 1074312567,
-        "version": "3.5"
+        "filename": "voltage-3.6-yunluo-20240811-1122-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/yunluo/voltage-3.6-yunluo-20240811-1122-OFFICIAL.zip/download",
+        "timestamp": 1723375265,
+        "md5": "f839204c163463b4c016e2d7a6159e2c",
+        "size": 1066329395,
+        "version": "3.6"
     }
   ]
 }

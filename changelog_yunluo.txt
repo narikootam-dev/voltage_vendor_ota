@@ -1,3 +1,19 @@
+VoltageOS 3.6
+Date : 11-08-2024
+
+- From 3.5 :
+		 - Updated Blobs and Firmware from HyperOS 1.0.4.0.ULYMIXM
+		 - Default orientation set to Landscape
+		 - Disabled backpressure propagation
+		 - Switched default renderer to SkiaGL
+		 - Enabled Per-App Aspect Ratio
+
+- Kernel side :
+		 - Merged August 2024 Android Security Bulletin
+		 - Merged branch `android12-5.10-lts`
+		 - Switched to LSE Atomics (Large System Extensions)
+		 - Micro-optimized PID maps output (mm)
+
 VoltageOS 3.5
 Date : 24-07-2024
 
