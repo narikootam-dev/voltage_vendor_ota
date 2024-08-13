@@ -1,3 +1,32 @@
+VoltageOS 3.6
+Build Date: 13/08/2024
+- Fixed an issue regarding setting device name
+- Move to new RFS install_symlink targets
+- Declare IMS libs as symlinks during extraction
+- Remove wait_for_keymaster and all references
+- Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- Convert WiFi firmware symlinks to install_symlink targets
+- Declare EGL libs as symlinks during extraction
+- init: Disable adsprpcd
+- init: Set permission for charging control nodes
+- Fix vendor.voice.path.for.pcm.voip value
+- Copy NFC firmware to the correct location
+- Move NFC configs to vendor
+- Build AIDL NXP NFC HAL
+- sepolicy: Allow fingerprint HAL to use vndbinder
+- sepolicy: Allow fingerprint HAL to interact with uevent socket
+- sepolicy: Add fortsense and sunwave fingerprint rules
+- rootdir: Set missing permissions for goodix and fortsense
+- rootdir: Set missing permissions for goodix and fortsense
+- Prevent adding same dependency twice in blob_fixup
+- Import fortsense hwmodule and sunwave dependency
+- overlay: Remove config_cellBroadcastAppLinks
+- sepolicy: Follow stock label for ro.product.mod_device
+- Get rid of libinit
+- don't boost PowerHAL on audio usage
+- Set UI rendering Skiagl with skiaglthreaded
+- merged 'LA.UM.9.1.r1-16300-SMxxx0.QSSI14.0' CLO tag in kernel
+
 VoltageOS 3.5
 Build Date: 31/07/2024
 - sepolicy: Move common wakeup nodes to qcom sepolicy
