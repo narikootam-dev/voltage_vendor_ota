@@ -1,4 +1,9 @@
 VoltageOS 3.6
+Build Date: 15/08/2024
+Device Side:
+- Fixed Settings App Crash After Opening Developer Options
+- Fixed Play Integrity (Passes Device Integrity)
+
 Build Date: 11/08/2024
 Device Side:
 - Moved To OnePlus Dolby
