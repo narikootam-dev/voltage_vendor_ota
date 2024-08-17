@@ -1,3 +1,17 @@
+VolategOS 3.6
+Build Date : 17-08-2024
+ - Fixed logspam when device sleeps
+ - power-pibperfmgr: drop unused nodes
+ - Enable frame pacing for smoother visual performance
+ - Update GPS Blobs from LA.UM.9.15.2.r1-09800-KAMORTA.QSSI14.0
+ - Update Gps hal from LA.UM.9.15.2.r1-09400-KAMORTA.QSSI14.0
+ - Dropped various useless stuffs
+ - Update QCV (SOC Helper) Blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
+ - rootdir: Do not exec init.qti.can.sh
+ - rootdir: Do not override ro.vendor.gpu.available_frequencies
+ - rootdir: Don't override GPU Opengles version
+ - sepolicy: Label some sysfs wakeup node
+
 VoltageOS 3.5
 Build Date : 29-07-2024
 
