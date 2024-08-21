@@ -1,3 +1,9 @@
+VoltageOS 3.6
+Build Date: 21/08/2024
+- Switched to 5.15 kernel from hOS
+- Bundles PixelParts
+- Merged August Patches on Device
+
 VoltageOS 3.5
 Build Date: 29/07/2024
 - Initial QPR3 build
