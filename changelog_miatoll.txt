@@ -1,3 +1,16 @@
+VoltageOS 3.7-EOL
+Build Date: 07-09-2024
+
+- Switched to QTI thermal hal
+- Updated Adreno Blobs from Quest 2 (v786)
+- Switched to QTI Memtrack AIDL HAL 
+- Enabled c2codec
+- Imported thermal configs from stock 
+- Improved post boot tuning for performance
+- Tuned input boost parameters
+- Allowed all filesystems for USB-OTG
+- Changed screen density to 420dpi
+
 VoltageOS 3.6
 Build Date: 11-08-2024
 
