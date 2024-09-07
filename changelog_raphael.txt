@@ -1,3 +1,12 @@
+VoltageOS 3.7-EOL
+Build Date : 07/09/2024
+
+Device Side :
+ - Potential fix applied for random reboot
+ - Update Framework Compatibility Matrix
+
+-----------------------------------------------------------
+
 VoltageOS 3.6
 Build Date : 11/08/2024
 
