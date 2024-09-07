@@ -1,3 +1,14 @@
+VoltageOS 3.7-EOL
+Build Date: 07/09/2024
+Device Side:
+- Disabled Backpressure Propagation
+- Fixed Working Of QTI Thermal
+- Allowed System Apps To Access Zram Nodes
+- Fixed PowerOffAlarm
+- Many Under The Hood Changes
+
+-----------------------------------------------------------------------------------------------
+
 VoltageOS 3.6
 Build Date: 15/08/2024
 Device Side:
@@ -6,7 +17,7 @@ Device Side:
 
 Build Date: 11/08/2024
 Device Side:
-- Moved To OnePlus Dolby
+- Switched To OnePlus Dolby
 - Disabled Continuous Transaction Tracing
 - Disabled Audio Dynamic Range Compression For Better Max Volume
 - Many Under The Hood Changes

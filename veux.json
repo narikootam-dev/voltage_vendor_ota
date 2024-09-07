@@ -4,12 +4,12 @@
         "maintainer": "𝕱𝖗𝖔𝖘𝖙",
         "oem": "Redmi",
         "device": "Redmi Note 11 Pro/Poco X4 Pro",
-        "filename": "voltage-3.6-veux-20240815-0102-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/veux/voltage-3.6-veux-20240815-0102-OFFICIAL.zip/download",
-        "timestamp": 1723683476,
-        "md5": "b96fb2c06aea2ddd0ae44e61a910c73d",
-        "size": 1499135114,
-        "version": "3.6"
+        "filename": "voltage-3.7-EOL-veux-20240907-0622-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/veux/voltage-3.7-EOL-veux-20240907-0622-OFFICIAL.zip/download",
+        "timestamp": 1725689953,
+        "md5": "c3a0f973d20643dbac3a0058f5f032c8",
+        "size": 1453598941,
+        "version": "3.7"
     }
   ]
 }
