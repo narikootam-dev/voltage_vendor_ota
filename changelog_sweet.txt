@@ -1,3 +1,23 @@
+VoltageOS 3.7-EOL
+Build Date : 10/09/2024
+- Move to common fingerprint HIDL
+- Fixed fortsense fp issue
+- Update blobs from MIUI V14.0.8.0.TKFMIXM
+- Build xiaomi-telephony-stub
+- Update blobs from sweet_k6a OS1.0.6.0.THGMIXM
+- Import missing libqtigef.so
+- Update CarrierConfigOverlay from sweet_k6a OS1.0.6.0.THGMIXM
+- sepolicy: cleanup unneeded denials
+- Make trust use dwc3 usb_data_enabled
+- sepolicy: Bringup property_contexts for Android 14
+- sepolicy: Drop camera.sensor* properties
+- sepolicy: Rename sys.panel.display to vendor.panel.display
+- Drop unused RIL properties
+- Move default network property to vendor partition
+- unset BOARD_USERDATAIMAGE_PARTITION_SIZE
+- add missing permission for fpc
+- sepolicy: migrate to vendor_hal_telephony_service2
+
 VoltageOS 3.6
 Build Date: 13/08/2024
 - Fixed an issue regarding setting device name
