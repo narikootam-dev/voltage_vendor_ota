@@ -1,3 +1,10 @@
+VoltageOS 3.7-EOL
+Build Date : 19/09/2024 
+ - Migrate to Health 2.1 HAL 
+ - Disable backpressure propagation
+ - Included Realme Parts
+ - Start vendor.hwcomposer-2-4 on late-fs
+
 VolategOS 3.6
 Build Date : 17-08-2024
  - Fixed logspam when device sleeps

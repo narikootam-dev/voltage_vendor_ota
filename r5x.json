@@ -4,12 +4,12 @@
         "maintainer": "AdityaDotExe",
         "oem": "Realme",
         "device": "Realme 5 Series (r5x)",
-        "filename": "voltage-3.6-r5x-20240817-1159-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/r5x/voltage-3.6-r5x-20240817-1159-OFFICIAL.zip/download",
-        "timestamp": 1723895933,
-        "md5": "ee4d58a8eefb5b0d0be33e34155007c9",
-        "size": 1492378415,
-        "version": "3.6"
+        "filename": "voltage-3.7-EOL-r5x-20240919-0706-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/r5x/voltage-3.7-EOL-r5x-20240919-0706-OFFICIAL.zip/download",
+        "timestamp": 1726729601,
+        "md5": "21f63d3624735b8e9ba3a52c94bf1013",
+        "size": 1503122263,
+        "version": "3.7"
     }
   ]
 }
