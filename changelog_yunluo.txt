@@ -1,3 +1,20 @@
+VoltageOS 3.7-EOL
+Date : 20-09-2024
+
+- From 3.6 :
+		 - Enabled support for ALSA audio. (USB Audio)
+		 - Added BesLoudness QS Icon.
+		 - Enabled Battery Cycle Count.
+		 - Fixed Media Playback on some specific apps.
+		 - Switched back to SCUDO from Jemalloc.
+
+- Kernel side :
+		 - Merged September 2024 ASB.
+		 - Merged `android12-5.10-lts` and `android12-5.10` branches.
+		 - Upstreamed to 5.10.225.
+		 - Switched to -O3 optimization flag.
+		 - Fixed IOWait boost escaping UCLAMP Restrictions.
+
 VoltageOS 3.6
 Date : 11-08-2024
 
