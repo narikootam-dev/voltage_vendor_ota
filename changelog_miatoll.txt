@@ -1,59 +1,15 @@
-VoltageOS 3.7-EOL
-Build Date: 07-09-2024
+VoltageOS 4.0
+Build Date: 09/11/2024
 
-- Switched to QTI thermal hal
-- Updated Adreno Blobs from Quest 2 (v786)
-- Switched to QTI Memtrack AIDL HAL 
-- Enabled c2codec
-- Imported thermal configs from stock 
-- Improved post boot tuning for performance
-- Tuned input boost parameters
-- Allowed all filesystems for USB-OTG
-- Changed screen density to 420dpi
-
-VoltageOS 3.6
-Build Date: 11-08-2024
-
-- Added OnePlus Dolby 
-- Added Device as Webcam support 
-- Updated System blobs from LA.QSSI.14.0.r1-16000-qssi.0
-- Imported audio policy volume from stock
-- Fixed device watermark of MIUI camera
-- Adjusted swappiness according to RAM size
-
-VoltageOS 3.5
-Build Date: 21-07-2024
-
-- Added Miui Camera
-- OSS Audio HALS
-- Improved MIC sensitivity 
-- Added missing ACDB IDs
-- Set Memory tweaks for 4Gb ram devices
-- Partially Updated some Adreno blobs to v757
-- Switched to AVC 3.1 for screen recording
-- Fixed lag in Meta Apps during audio note recording
-- Disabled Data Roaming option by default
-- Move to new RFS install_symlink targets
-- Convert WiFi firmware symlinks to install_symlink targets
-- Declare IMS libs as symlinks during extraction 
-- Declare EGL libs as symlinks during extraction
-- Removed software OMX blobs
-- Switch to AOSP default Codec2/OMX ranks
-- Disabled GL comp backpressure
-
-VoltageOS 3.4
-Build Date: 12-05-2024
-
-- Switched to YAMK 4.14.344 openELA
-- Adjusted status bar padding 
-- Adjusted max num of notification shown on status bar and lockscreen 
-- Update carrirer config overlays from sweetin
-- Fixed no signal show in status bar after reboot for Curtana
-- Enabled VoLTE/VoWIFI For All Indian Carriers
-- Improved rounded corner content padding
-
-
-VoltageOS 3.3
-Build Date: 27-04-2024
-
-- Initial Official Release
+- Initial Android 15 release
+- Switched to AIDL thermal HALs
+- Miui camera inbuilt
+- OSS audio
+- Enabled ELF checks
+- Fixed fp indicator position 
+- Fixed mic issues in Meta apps
+- Disabled surround sound 
+- Enabled deep buffer playback for media
+- Used 24bit pulse-code modulation for deep buffer playback
+- Synced with latest Kinesis omega kernel
+- Some under the hood changes 
