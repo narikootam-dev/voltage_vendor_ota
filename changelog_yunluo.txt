@@ -1,65 +1,13 @@
-VoltageOS 3.7-EOL
-Date : 20-09-2024
+VoltageOS 4.0
+Date : 12/11/2024
 
-- From 3.6 :
-		 - Enabled support for ALSA audio. (USB Audio)
-		 - Added BesLoudness QS Icon.
-		 - Enabled Battery Cycle Count.
-		 - Fixed Media Playback on some specific apps.
-		 - Switched back to SCUDO from Jemalloc.
+From 3.7-EOL :
+		- Intial Android 15 Release.
+		- Fixed embedded video playback for apps like Telegram.
+		- Updated blobs from Global HyperOS 1.0.6.0.
 
-- Kernel side :
-		 - Merged September 2024 ASB.
-		 - Merged `android12-5.10-lts` and `android12-5.10` branches.
-		 - Upstreamed to 5.10.225.
-		 - Switched to -O3 optimization flag.
-		 - Fixed IOWait boost escaping UCLAMP Restrictions.
-
-VoltageOS 3.6
-Date : 11-08-2024
-
-- From 3.5 :
-		 - Updated Blobs and Firmware from HyperOS 1.0.4.0.ULYMIXM
-		 - Default orientation set to Landscape
-		 - Disabled backpressure propagation
-		 - Switched default renderer to SkiaGL
-		 - Enabled Per-App Aspect Ratio
-
-- Kernel side :
-		 - Merged August 2024 Android Security Bulletin
-		 - Merged branch `android12-5.10-lts`
-		 - Switched to LSE Atomics (Large System Extensions)
-		 - Micro-optimized PID maps output (mm)
-
-VoltageOS 3.5
-Date : 24-07-2024
-
-- From 3.4-BETA :
-		 - Fixed DRM Playback
-		 - Fixed inconsistent deepsleep
-		 - Blobs and Firmware updated to HyperOS 1.0.3.0.ULYMIXM
-		 - Reworked PowerHint boosting
-		 - Updated Motorola Dolby for QPR3 Release
-		 - Fixed Double Tap to Wake
-		 - Included Task Profiles from HyperOS 1.0.3.0.ULYMIXM
-		 - Fixed Device Integrity (only on Gapps)
-- Kernel side :
-		 - Merged July 2024 Android Security Bulletin
-		 - Merged `android12-5.10-lts` (Upstream to 5.10.222)
-		 - Merged F2FS patches
-		 - Disabled Watermark boosting (mm)
-		 - Reduced PELT half-life to 16ms, from 32ms
-		 - Enabled DCE (Dead Code Elimination)
-
-VoltageOS 3.4
-Date : 12-05-2024
-
-- Initial Release for Redmi Pad (yunluo)
-- Added Viper4AndroidFX to counteract atrocious speaker audio
-- Kernel side :
-		- Updated to May 2024 Android Security Bulletin
-		- Built on AOSP Crosshatch Android 12 release clang
-		- Dropped iommu tracing on release builds
-		- Suppressed binder logging level to 0
-		- Dropped binder debugging
-		- Excluded non MTK dts
+Kernel Side :
+		- Merged November 2024 ASB.
+		- Upstreamed from android12-5.10 and android12-5.10-lts.
+		- Merged Mediatek ALPS GPU patches.
+		- Updated DTBO from Global HyperOS 1.0.6.0.
