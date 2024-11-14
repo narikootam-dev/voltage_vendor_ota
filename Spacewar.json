@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "StudioKeys",
+        "oem": "Nothing",
+        "device": "Phone (1)",
+        "filename": "voltage-4.0-Spacewar-20241114-0513-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/Spacewar/voltage-4.0-Spacewar-20241114-0513-OFFICIAL.zip/download",
+        "timestamp": 1731560894,
+        "md5": "c6ae941529fe067b61db1580c5fb0cd2",
+        "size": 1840543134,
+        "version": "4.0"
+    }
+  ]
+}
