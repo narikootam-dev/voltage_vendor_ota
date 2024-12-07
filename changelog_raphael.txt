@@ -1,5 +1,25 @@
 -----------------------------------------------------------
 
+VoltageOS 4.0.1
+
+Build Date : 08/12/2024
+
+Device Side :
+ - Fixed popup camera light not working
+ - Xiaomi Parts : Remove Doze
+ - Add overlays for VoltageOS Doze
+ - Drop deprecated overlays
+ - Remove software omx codec references
+ - Use aosp default codec2/omx ranks
+ - Sync extract-files & setup-makefiles from los 22 template
+ - Mark xml files that require fixup during extraction
+
+Vendor Side :
+ - Remove Software Omx blobs
+ - Regenerate vendor with new los 22 extract scripts
+
+-----------------------------------------------------------
+
 VoltageOS 4.0
 
 Build Date : 09/11/2024
