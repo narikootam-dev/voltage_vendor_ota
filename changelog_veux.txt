@@ -1,3 +1,17 @@
+VoltageOS 4.0.1
+Build Date: 07/12/2024
+Device Side:
+- Brought Back Smart Pixels
+- Dropped Xiaomi Parts' Thermal Settings
+- Addressed Some More Sepolicy Denials
+- Enabled Doze Mode
+- Added Refresh Rate QS Tile
+
+Vendor Side:
+- Updated Blobs From Hyper OS1.0.11.0.TKCMIXM
+
+-----------------------------------------------------------------------------------------------
+
 VoltageOS 4.0
 Build Date: 09/11/2024
 Device side:
