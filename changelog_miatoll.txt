@@ -1,3 +1,16 @@
+VoltageOS 4.0.1
+Build Date: 07/12/2024
+
+- Enabled Doze mode
+- Enabled VoLTE and VoWiFi by default 
+- Fixed sepolicy denial
+- Disabled VSync for CPU rendered apps
+- Updated power_profile from MIUI14
+- Enabled ro.audio.monitorRotation
+- Switched to LOS based kernel (Thanks to popoASM & Clarence)
+
+
+
 VoltageOS 4.0
 Build Date: 09/11/2024
 
