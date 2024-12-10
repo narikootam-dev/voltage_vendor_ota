@@ -1,3 +1,7 @@
+VoltageOS 4.0.1
+Date : 10/12/2024
+               - Supressed some logging service
+               - Disable alpha compositing in WM
 VoltageOS 4.0
 Date : 14/11/2024
 From 3.7-EOL :
