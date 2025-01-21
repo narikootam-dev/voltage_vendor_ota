@@ -1,3 +1,37 @@
+VoltageOS 4.1
+Build Date : 19/01/2025
+Device Side :
+- Fixed audio server crashing
+- Migrate mount point creation out of Android.mk
+- Fixed Whatapp call end takes time
+- Remove OMX audio codecs
+- media: drop OMX heic encoder
+- update media from V14.0.8.0.TKFMIXM
+- update audio from V14.0.8.0.TKFMIXM
+- display: Convert to blueprint
+- Explicitly set as an non-AB target
+- sepolicy: Fix up libperfmgr crash on logs
+- give proper permissions for /dev/diag
+- audio: Remove raw flag for audio pop
+- audio: fixup audio io policy voip_rx flags
+- Disable frame rate override feature
+- Remove Force triple frame buffers
+- Enable frame pacing for smoother visual performance
+- checkout media_codecs_performance_sdmmagpie_v1.xml from LA.UM.9.1.r1-09600-SMxxx0.0
+- Sync UP/DOWN rate limits with https://github.com/narikootam-dev/kernel_xiaomi_msm4.14
+- Disable QS media player turbulence effect by default
+- media: Partially sync media_codecs_vendor_sdmmagpie_v1.xml with CAF
+- media: Tune perf xml as per results
+- Remove software OMX blobs
+- Use AOSP default Codec2/OMX ranks
+- Remove software omx codec references
+- dts: xiaomi: Add k6-38-0e-0b-fhd-dsc-video panel
+- Remove support for ANC headphones
+- add WPA3 definition for SAE authentication
+- power: Stabilize fluctuation in charging speed
+- Enabled SBALANCE
+- arch: arm64: boot: dts: qcom: xiaomi: Adapt IR SPI binding for upstream driver
+
 VoltageOS 4.0.1
 Date : 10/12/2024
                - Supressed some logging service
